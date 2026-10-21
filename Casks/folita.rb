@@ -1,7 +1,7 @@
 # 发布流水线以此为模板生成 openvetta/homebrew-tap 中的 Casks/folita.rb。
 cask "folita" do
-  version "0.1.1"
-  sha256 "9d1a1043074d095b8df83003adc89e50c253081326edab3030457ed56b030a62"
+  version "0.1.2"
+  sha256 "b03b018bad6e57963f6d0ab85b1b0930ad41e016344fd6796bd7e5ec9b1e76c0"
 
   url "https://github.com/openvetta/folita/releases/download/v#{version}/Folita-#{version}.zip"
   name "Folita"
